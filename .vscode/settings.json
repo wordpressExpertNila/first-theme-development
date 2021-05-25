@@ -1,0 +1,10 @@
+{
+    "terminal.integrated.altClickMovesCursor": false,
+    "terminal.integrated.cursorWidth": 2,
+    "editor.wordWrap": "on",
+    "workbench.editor.enablePreview": false,
+    "editor.comments.ignoreEmptyLines": false,
+    "editor.find.autoFindInSelection": "always",
+    "editor.find.loop": false,
+    "diffEditor.ignoreTrimWhitespace": false
+}
